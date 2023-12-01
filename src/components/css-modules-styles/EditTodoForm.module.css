@@ -1,0 +1,25 @@
+.containerEditTodoForm input {
+    outline: 0px;
+    font-size: 1.3rem;
+    padding: 10px 15px;
+    border: none;
+    background-color: rgba(210, 217, 228, 0.518);
+    border-radius: 5px;
+}
+.containerEditTodoForm input:hover {
+    background-color: beige;
+}
+
+.containerEditTodoForm button {
+    margin: 0px 10px;
+    cursor: pointer;
+    background-color: beige;
+    font-size: 1.2rem;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.containerEditTodoForm button:hover {
+    background-color: #d4d9e0;
+}

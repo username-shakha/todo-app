@@ -1,0 +1,33 @@
+.containerAddForm {
+    margin-bottom: 30px;
+    min-width: max-content;
+}
+
+.containerAddForm form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.containerAddForm input {
+    width: 45%;
+    height: 30px;
+    font-size: 1.3rem;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+.containerAddForm button {
+    margin-left: 20px;
+    height: 50px;
+    cursor: pointer;
+    background-color: beige;
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.containerAddForm button:hover {
+    background-color: rgb(240, 240, 155);
+}
